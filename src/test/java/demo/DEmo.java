@@ -2,14 +2,11 @@ package demo;
 
 import org.testng.annotations.Test;
 
-public class CreateOrgTest {
+public class DEmo {
 	
 	@Test
-	public void test1()
+	public void demo()
 	{
-		System.out.println("create Org");
-		
-		
 		System.out.println("Hi");
 	}
 
