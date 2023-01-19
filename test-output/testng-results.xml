@@ -1,17 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
-  <reporter-output>
-  </reporter-output>
-  <suite started-at="2023-01-19T10:52:01 IST" name="Default suite" finished-at="2023-01-19T10:52:01 IST" duration-ms="36">
+<?xml version="1.0" encoding="UTF-8"?><testng-reignored="1" total="2" passed="1" failed="0" skipped="0">ults ignored="0" total="1" passed="1" failed="0" skipped="0">ults ignored="0" total="1" passed="1" failed="0" skipped="0"of https://github.com/C' of https://github.com/Ch' of https://github.com/Cha' of https://github.com/Chai' of https://github.com/Chait' of https://github.com/Chaitr' of https://github.com/Chaitra' of https://github.com/ChaitraQ' of https://github.com/ChaitraQs' of https://github.com/ChaitraQsp' of https://github.com/ChaitraQsp/' of https://github.com/ChaitraQsp/W' of https://github.com/ChaitraQsp/WC' of https://github.com/ChaitraQsp/WCS' of https://github.com/ChaitraQsp/WCSM' of https://github.com/ChaitraQsp/WCSM2' of https://github.com/ChaitraQsp/WCSM23' of https://github.com/ChaitraQsp/WCSM23-' of https://github.com/ChaitraQsp/WCSM23-G' of https://github.com/ChaitraQsp/WCSM23-Gi' of https://github.com/ChaitraQsp/WCSM23-Git' of https://github.com/ChaitraQsp/WCSM23-GitP' of https://github.com/ChaitraQsp/WCSM23-GitPr' of https://github.com/ChaitraQsp/WCSM23-GitPra' of https://github.com/ChaitraQsp/WCSM23-GitPrac' of https://github.com/ChaitraQsp/WCSM23-GitPract' of https://github.com/ChaitraQsp/WCSM23-GitPracti' of https://github.com/ChaitraQsp/WCSM23-GitPractic' of https://github.com/ChaitraQsp/WCSM23-GitPractice' of https://github.com/ChaitraQsp/WCSM23-GitPractice.' of https://github.com/ChaitraQsp/WCSM23-GitPractice.grter-output>
+  </reporter-output><suite sta"2023-01-19T10:52:01 IST" name="Default suite" finished-at="2023-01-19T10:52:01 IST" duration-ms="36">
+=======
+  <suite started-at="2023-01-19T10:50:30 IST" name="Default suite" finished-at="2023-01-19T10:50:30 IST" duration-ms="46">
+>>>>>>> branch 'master' of https://github.com/ChaitraQsp/WCSM23-GitPractice.git
     <groups>
     </groups>
+<<<<<<< HEAD
     <test started-at="2023-01-19T10:52:01 IST" name="Default test" finished-at="2023-01-19T10:52:01 IST" duration-ms="36">
       <class name="demo.DEmo">
         <test-method signature="test1()[pri:0, instance:demo.DEmo@482bce4f]" started-at="2023-01-19T10:52:01 IST" name="test1" finished-at="2023-01-19T10:52:01 IST" duration-ms="6" status="PASS">
+=======
+    <test started-at="2023-01-19T10:50:30 IST" name="Default test" finished-at="2023-01-19T10:50:30 IST" duration-ms="46">
+      <class name="demo.Sample">
+        <test-method signature="test()[pri:0, instance:demo.Sample@55b53d44]" started-at="2023-01-19T10:50:30 IST" name="test" finished-at="2023-01-19T10:50:30 IST" duration-ms="9" status="PASS">
+>>>>>>> branch 'master' of https://github.com/ChaitraQsp/WCSM23-GitPractice.git
           <reporter-output>
           </reporter-output>
+<<<<<<< HEAD
         </test-method> <!-- test1 -->
       </class> <!-- demo.DEmo -->
+=======
+        </test-method> <!-- test -->
+      </class> <!-- demo.Sample -->
+>>>>>>> branch 'master' of https://github.com/ChaitraQsp/WCSM23-GitPractice.git
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
